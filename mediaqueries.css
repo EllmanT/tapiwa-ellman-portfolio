@@ -87,6 +87,11 @@
     height: 46vw;
     justify-content: center;
   }
+  .section_pic2-container {
+    width: auto;
+    height: 46vw;
+    justify-content: center;
+  }
   .section_text_p2 {
     font-size: 2rem;
   }
