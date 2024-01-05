@@ -23,7 +23,7 @@
   .section-container {
     display: block;
   }
-  .arrow {
+  .arrow, .arrow1 {
     display: none;
   }
   section,
@@ -84,7 +84,7 @@
   }
   .section_pic-container {
     width: auto;
-    height: 46vw;
+    height: 75vw;
     justify-content: center;
   }
   .section_pic2-container {
