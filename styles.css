@@ -298,8 +298,8 @@ section {
   position: relative;
 }
 .experience-sub-title {
-  color: black;
-  font-weight: 600;
+  color: gray;
+  font-weight: 400;
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
@@ -348,7 +348,7 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: gray;
 }
 .project-btn {
   color: black;
